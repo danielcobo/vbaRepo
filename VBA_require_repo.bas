@@ -1,4 +1,4 @@
-Attribute VB_Name = "repo_"
+Attribute VB_Name = "VBA_require_repo"
 Option Explicit
 
 Function repoRate(initialPrice As Double, _
